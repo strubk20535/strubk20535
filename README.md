@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @strubk20535, former known as Kay Struebing
 - 👀 I’m interested in mechanical design, Python HTML, CSS and Javascript programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on th fleming project
 - 📫 How to reach me: kay.struebing@perkinelmer.com
 
 <!---
